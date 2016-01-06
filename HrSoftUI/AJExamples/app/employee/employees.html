@@ -1,0 +1,43 @@
+﻿<div data-ng-controller="employees">
+
+    <h1>Employees</h1>
+
+
+    <div>
+        <div class="row">
+            <label class="col-lg-2">Name</label>
+            <input type="text" class="col-lg-10" data-ng-model="employee.name" />
+            
+        </div>
+        
+        <div class="row">
+            <label class="col-lg-2">FatherName</label>
+            <input type="text" class="col-lg-10" data-ng-model="employee.fatherName" />
+
+        </div>
+        <div class="row">
+            <label class="col-lg-2">Village</label>
+            <input type="text" class="col-lg-10" data-ng-model="employee.village" />
+
+        </div>
+        <div>
+            <button type="button" data-ng-click="addEmployee()">Add</button>
+        </div>
+        
+    </div>
+
+    <div data-ng-repeat="e in employees">
+
+        <div style="background-color: green; border-radius: 5px">
+            <div><h1>{{e.name}}</h1></div>
+            <div><p>{{e.village}}</p></div>
+        </div>
+       
+
+
+
+
+    </div>
+
+
+</div>

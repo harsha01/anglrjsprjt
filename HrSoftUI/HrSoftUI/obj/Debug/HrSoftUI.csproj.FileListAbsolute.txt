@@ -1,0 +1,11 @@
+D:\Development\Swarun\AngularJS\HrSoftUI\HrSoftUI\bin\HrSoftUI.dll.config
+D:\Development\Swarun\AngularJS\HrSoftUI\HrSoftUI\bin\HrSoftUI.dll
+D:\Development\Swarun\AngularJS\HrSoftUI\HrSoftUI\bin\HrSoftUI.pdb
+D:\Development\Swarun\AngularJS\HrSoftUI\HrSoftUI\obj\Debug\HrSoftUI.csprojResolveAssemblyReference.cache
+D:\Development\Swarun\AngularJS\HrSoftUI\HrSoftUI\obj\Debug\HrSoftUI.dll
+D:\Development\Swarun\AngularJS\HrSoftUI\HrSoftUI\obj\Debug\HrSoftUI.pdb
+C:\Users\harshavardhan\AppData\Roaming\Skype\My Skype Received Files\HrSoftUI (2)\HrSoftUI\HrSoftUI\bin\HrSoftUI.dll
+C:\Users\harshavardhan\AppData\Roaming\Skype\My Skype Received Files\HrSoftUI (2)\HrSoftUI\HrSoftUI\bin\HrSoftUI.pdb
+C:\Users\harshavardhan\AppData\Roaming\Skype\My Skype Received Files\HrSoftUI (2)\HrSoftUI\HrSoftUI\obj\Debug\HrSoftUI.csprojResolveAssemblyReference.cache
+C:\Users\harshavardhan\AppData\Roaming\Skype\My Skype Received Files\HrSoftUI (2)\HrSoftUI\HrSoftUI\obj\Debug\HrSoftUI.dll
+C:\Users\harshavardhan\AppData\Roaming\Skype\My Skype Received Files\HrSoftUI (2)\HrSoftUI\HrSoftUI\obj\Debug\HrSoftUI.pdb
